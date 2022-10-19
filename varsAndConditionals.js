@@ -22,7 +22,7 @@ if(kenobiAttack > skywalkerAttack){
 }
 
 let kenobiHealth = 100
-let kenobiDefense = 30
+let kenobiDefense = 0
 
 if(skywalkerAttack >= kenobiHealth) {
     console.log('Obiwan was slain')
